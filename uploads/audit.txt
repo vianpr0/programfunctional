@@ -1,0 +1,4 @@
+Inventarisasi Peralatan dan Komponen:
+Daftar Lengkap Komponen: Pencatatan semua komponen dan peralatan yang ada di laboratorium.
+Jumlah Komponen: Verifikasi jumlah setiap komponen yang tersedia.
+Kondisi Fisik: Pemeriksaan kondisi fisik semua komponen dan peralatan untuk mendeteksi kerusakan atau keausan.
